@@ -1,0 +1,372 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* FittsPlanningAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 476}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 535}";
+		};
+	};
+	1D3623250D0F684500981E51 /* FittsPlanningAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 884}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{34, 1612}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Fitts */ = {
+		activeExec = 0;
+		executables = (
+			EBF8879612945FBB00CAD651 /* Fitts */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* FittsPlanningViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {949, 1482}}";
+			sepNavSelRange = "{765, 17}";
+			sepNavVisRange = "{1609, 1356}";
+			sepNavWindowFrame = "{{-1289, 410}, {907, 625}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* FittsPlanningViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1608, 17745}}";
+			sepNavSelRange = "{6312, 0}";
+			sepNavVisRange = "{3754, 2515}";
+			sepNavWindowFrame = "{{15, 324}, {1426, 849}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = EBF8879612945FBB00CAD651 /* Fitts */;
+		activeSDKPreference = iphoneos4.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Fitts */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Fitts */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = EBF887AE12945FC800CAD651 /* Code sense */;
+		executables = (
+			EBF8879612945FBB00CAD651 /* Fitts */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					659,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					771,
+					20,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					1113,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					731,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 351227225;
+			PBXWorkspaceStateSaveDate = 351227225;
+		};
+		perUserProjectItems = {
+			EB108AE814EC765200C2644D /* PBXTextBookmark */ = EB108AE814EC765200C2644D /* PBXTextBookmark */;
+			EB4B7AF8132FEA9400A38B06 /* PBXBookmark */ = EB4B7AF8132FEA9400A38B06 /* PBXBookmark */;
+			EB4B7AF9132FEA9400A38B06 /* PBXBookmark */ = EB4B7AF9132FEA9400A38B06 /* PBXBookmark */;
+			EB4B7AFA132FEA9400A38B06 /* PBXBookmark */ = EB4B7AFA132FEA9400A38B06 /* PBXBookmark */;
+			EB4B7AFB132FEA9400A38B06 /* PBXBookmark */ = EB4B7AFB132FEA9400A38B06 /* PBXBookmark */;
+			EB4B7AFC132FEA9400A38B06 /* PBXBookmark */ = EB4B7AFC132FEA9400A38B06 /* PBXBookmark */;
+			EB4B7AFE132FEA9400A38B06 /* PBXBookmark */ = EB4B7AFE132FEA9400A38B06 /* PBXBookmark */;
+			EB4B7B09132FEDF100A38B06 /* PBXBookmark */ = EB4B7B09132FEDF100A38B06 /* PBXBookmark */;
+			EB4B7B81133012AB00A38B06 /* PBXBookmark */ = EB4B7B81133012AB00A38B06 /* PBXBookmark */;
+			EB833126132EC32900A31EB7 /* PBXTextBookmark */ = EB833126132EC32900A31EB7 /* PBXTextBookmark */;
+			EBE770FB14EF4C6900ABBD9A /* PlistBookmark */ = EBE770FB14EF4C6900ABBD9A /* PlistBookmark */;
+			EBE7715614EF4D6C00ABBD9A /* PBXTextBookmark */ = EBE7715614EF4D6C00ABBD9A /* PBXTextBookmark */;
+			EBE7715714EF4D6C00ABBD9A /* PBXTextBookmark */ = EBE7715714EF4D6C00ABBD9A /* PBXTextBookmark */;
+			EBEBC179130F28A70044ED83 /* PBXTextBookmark */ = EBEBC179130F28A70044ED83 /* PBXTextBookmark */;
+			EBF4B74412EAD8DB006839F2 /* PBXTextBookmark */ = EBF4B74412EAD8DB006839F2 /* PBXTextBookmark */;
+			EBFE6BEF12EE3546009B5266 /* PBXTextBookmark */ = EBFE6BEF12EE3546009B5266 /* PBXTextBookmark */;
+			EBFE6CE012EE724B009B5266 /* PBXTextBookmark */ = EBFE6CE012EE724B009B5266 /* PBXTextBookmark */;
+		};
+		sourceControlManager = EBF887AD12945FC800CAD651 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1203, 628}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 387}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* Fitts_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {795, 647}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 195}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Fitts-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 253}, {907, 625}}";
+		};
+	};
+	EB108AE814EC765200C2644D /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* FittsPlanningViewController.h */;
+		name = "FittsPlanningViewController.h: 34";
+		rLen = 17;
+		rLoc = 765;
+		rType = 0;
+		vrLen = 1356;
+		vrLoc = 1609;
+	};
+	EB4B7AF8132FEA9400A38B06 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EB17A3C913289C8A000B6FA8 /* tooearly.jpg */;
+	};
+	EB4B7AF9132FEA9400A38B06 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EBEA644A12F3FEB000D29D91 /* planstartbutton2.jpg */;
+	};
+	EB4B7AFA132FEA9400A38B06 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EBEA63D512F3ECA800D29D91 /* planstartbutton.jpg */;
+	};
+	EB4B7AFB132FEA9400A38B06 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EB598D2B12E12DE0003B3EC6 /* cross.jpg */;
+	};
+	EB4B7AFC132FEA9400A38B06 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EBFA3F0C13006FAD0005C4BA /* Coins.jpeg */;
+	};
+	EB4B7AFE132FEA9400A38B06 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EB17A3AD1328672B000B6FA8 /* bubbles.jpg */;
+	};
+	EB4B7B09132FEDF100A38B06 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EB17A3B313286884000B6FA8 /* bubbles2.jpg */;
+	};
+	EB4B7B81133012AB00A38B06 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = EB4B7B61132FF92C00A38B06 /* congrat.jpg */;
+	};
+	EB833126132EC32900A31EB7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* FittsPlanningAppDelegate.m */;
+		name = "FittsPlanningAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1612;
+		vrLoc = 34;
+	};
+	EBE770FB14EF4C6900ABBD9A /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Fitts-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/matteobertucco/Desktop/Ipad projects/Fitts/Fitts-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	EBE7715614EF4D6C00ABBD9A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FittsPlanningViewController.m */;
+		name = "FittsPlanningViewController.m: 150";
+		rLen = 0;
+		rLoc = 6312;
+		rType = 0;
+		vrLen = 2515;
+		vrLoc = 3754;
+	};
+	EBE7715714EF4D6C00ABBD9A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* FittsPlanningViewController.m */;
+		name = "FittsPlanningViewController.m: 150";
+		rLen = 0;
+		rLoc = 6312;
+		rType = 0;
+		vrLen = 2515;
+		vrLoc = 3754;
+	};
+	EBEA63D512F3ECA800D29D91 /* planstartbutton.jpg */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{-1425, 428}, {1322, 767}}";
+		};
+	};
+	EBEBC179130F28A70044ED83 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* Fitts_Prefix.pch */;
+		name = "FittsPlanning_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 195;
+		vrLoc = 0;
+	};
+	EBF4B74412EAD8DB006839F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* FittsPlanningAppDelegate.h */;
+		name = "FittsPlanningAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 535;
+		vrLoc = 0;
+	};
+	EBF8879612945FBB00CAD651 /* Fitts */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Fitts;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EBF887AD12945FC800CAD651 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EBF887AE12945FC800CAD651 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EBFE6BE812EE34DC009B5266 /* AppController.m */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.objc;
+		name = AppController.m;
+		path = "/Users/matteobertucco/Desktop/Ipad projects/Fitts R21 Program/AppController.m";
+		sourceTree = "<absolute>";
+	};
+	EBFE6BEF12EE3546009B5266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EBFE6BE812EE34DC009B5266 /* AppController.m */;
+		name = "AppController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1385;
+		vrLoc = 194;
+	};
+	EBFE6CE012EE724B009B5266 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 387;
+		vrLoc = 0;
+	};
+}
